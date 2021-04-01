@@ -1,0 +1,12 @@
+D:\Dropbox\TMP\TMP\TMP\bin\Debug\TMP.exe.config
+D:\Dropbox\TMP\TMP\TMP\bin\Debug\TMP.exe
+D:\Dropbox\TMP\TMP\TMP\bin\Debug\TMP.pdb
+D:\Dropbox\TMP\TMP\TMP\obj\Debug\TMP.csprojAssemblyReference.cache
+D:\Dropbox\TMP\TMP\TMP\obj\Debug\TMP.Form1.resources
+D:\Dropbox\TMP\TMP\TMP\obj\Debug\TMP.Properties.Resources.resources
+D:\Dropbox\TMP\TMP\TMP\obj\Debug\TMP.csproj.GenerateResource.cache
+D:\Dropbox\TMP\TMP\TMP\obj\Debug\TMP.csproj.CoreCompileInputs.cache
+D:\Dropbox\TMP\TMP\TMP\obj\Debug\TMP.exe
+D:\Dropbox\TMP\TMP\TMP\obj\Debug\TMP.pdb
+D:\Dropbox\TMP\TMP\TMP\obj\Debug\Interop.Shell32.dll
+D:\Dropbox\TMP\TMP\TMP\obj\Debug\TMP.csproj.ResolveComReference.cache
